@@ -222,7 +222,7 @@ int main(int argc, char** argv)
 		}
 		else
 		{
-			perror("Opening input file: ");
+			perror("Opening input file");
 		}
 	}
 	else
