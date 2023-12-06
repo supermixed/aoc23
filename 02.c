@@ -189,8 +189,6 @@ uint64_t Part1(FILE* f)
 
 uint64_t Part2(FILE* f)
 {
-	uint64_t total = 0;
-
 	char buffer[0x1000] = {'\0'};
 	uint64_t sum = 0;
 
